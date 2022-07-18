@@ -13,7 +13,8 @@
 
 Ниже пример кода из нашего приложения:
 
-```.selector {
+```css
+.selector {
   font-family: "Awgesome", Arial, sans-serif;
   color: red;
 }
