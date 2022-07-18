@@ -13,8 +13,8 @@
 
 Ниже пример кода из нашего приложения:
 
-~~~ .selector {
+```.selector {
   font-family: "Awgesome", Arial, sans-serif;
   color: red;
 }
-~~~
+```
